@@ -6,5 +6,5 @@ The space car is collected from Unity asset store.
 # Controls
 Use left and right key to control. You can use A and D too. 
 # Link 
-Download the game installation files from the following links.\\
-Windows : https://drive.google.com/open?id=17XchOfNewlayzIQDyFryhze0lRYsdr3k\\
+Download the game installation files from the following links. \\
+Windows : https://drive.google.com/open?id=17XchOfNewlayzIQDyFryhze0lRYsdr3k \\

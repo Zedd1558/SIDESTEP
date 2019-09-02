@@ -5,7 +5,7 @@ This is my first game that I tried in Unity. The gameplay is simple. Just avoid 
 The space car is collected from Unity asset store. 
 # Controls
 Use left and right key to control. You can use A and D too. 
-# Link 
+# Links 
 Download the game installation files from the following links. \
 Windows : https://drive.google.com/open?id=17XchOfNewlayzIQDyFryhze0lRYsdr3k \
 Android : https://drive.google.com/open?id=18OAEGjMqiridVlX-oCyult_cCKTcMIuw \ 
